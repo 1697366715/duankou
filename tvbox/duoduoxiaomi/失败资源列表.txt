@@ -1,0 +1,2 @@
+https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json
+https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json

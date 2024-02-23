@@ -1,0 +1,156 @@
+[{
+		"name": "推荐",
+		"list": [{
+				"name": "夕颜社区",
+				"url": "http://000.today/down.php/cc6a0cef445d6a7c035abf60edeeca74.apk",
+				"icon": "https://z1.ax1x.com/2023/11/28/piBbNKP.jpg",
+				"version": "2.2.0"
+			},
+			{
+				"name": "摸鱼影视仓",
+				"url": "https://cloud.lxweb.cn/f/XzakIK/%E6%91%B8%E9%B1%BC%E5%BD%B1%E8%A7%86%E4%BB%93_4.5.6.apk",
+				"icon": "https://z1.ax1x.com/2023/11/28/piDi8jU.jpg",
+				"version": "4.5.6"
+			},
+			{
+				"name": "Beat5.2.4",
+				"url": "https://cloud.lxweb.cn/f/1EQkfe/%E6%91%B8%E9%B1%BC4K_5.2.4.apk",
+				"icon": "https://z1.ax1x.com/2023/11/28/piDi8jU.jpg",
+				"version": "bt版"
+			},
+			{
+				"name": "put6.5.0",
+				"url": "https://cloud.lxweb.cn/f/VWadHr/%E6%91%B8%E9%B1%BC4K_6.5.0.apk",
+				"icon": "https://z1.ax1x.com/2023/11/28/piDenMt.jpg",
+				"version": "正式版"
+			},
+			{
+				"name": "摸鱼HD",
+				"url": "https://cloud.lxweb.cn/f/2MKdIG/%E6%91%B8%E9%B1%BCHD_4.2.0.apk",
+				"icon": "https://z1.ax1x.com/2023/11/28/piDi8jU.jpg",
+				"version": "4.2.0"
+			},
+			{
+				"name": "摸鱼TV",
+				"url": "https://cloud.lxweb.cn/f/REdGtO/%E6%91%B8%E9%B1%BCTV_1.0.5.apk",
+				"icon": "https://z1.ax1x.com/2023/11/28/piDi8jU.jpg",
+				"version": "4.2.0"
+			},
+			{
+				"name": "摸摸鱼宝盒",
+				"url": "https://cloud.lxweb.cn/f/KwyrtX/%E6%91%B8%E6%91%B8%E9%B1%BC%E5%AE%9D%E7%9B%923.20.apk",
+				"icon": "https://z1.ax1x.com/2023/12/11/piRTthV.png",
+				"version": "3.20"
+			}
+		]
+	},
+	{
+		"name": "影视软件",
+		"list": [{
+				"name": "爱家影视TV",
+				"url": "http://admin.appto.cc:789/APP/爱家影视TV版.apk",
+				"icon": "https://www.ijia.cc/img/favicon.ico",
+				"version": "[点击下载]"
+			},
+			{
+				"name": "爱家影视TV2.4",
+				"url": "http://admin.appto.cc:789/APP/爱家影视2.4.apk",
+				"icon": "https://www.ijia.cc/img/favicon.icog",
+				"version": "[点击下载]"
+			},
+			{
+				"name": "爱家影视手机版",
+				"url": "http://admin.appto.cc:789/APP/爱家手机影视.apk",
+				"icon": "https://www.ijia.cc/img/favicon.ico",
+				"version": "[点击下载]"
+			},
+			{
+				"name": "万达影视TV",
+				"url": "http://admin.appto.cc:789/APP/万达影视.apk",
+				"icon": "https://www.piku.pro/upload/mxprocms/20231201-1/5f4b24b8415fd294a5a92f90f371d3c7.png",
+				"version": "[点击下载]"
+			},
+			{
+				"name": "影视仓",
+				"url": "http://admin.appto.cc:789/APP/万达盒子.apk",
+				"icon": "https://admin.appto.cc/tv/1.jpg",
+				"version": "[点击下载]"
+			},
+			{
+				"name": "TVBOX",
+				"url": "#",
+				"icon": "http://zjay.myds.me/jay/images/ystv.md.png",
+				"version": "[点击下载]"
+			}
+		]
+	},
+	{
+		"name": "工具软件",
+		"list": [{
+				"name": "甲壳虫ADB",
+				"url": "https://cloud.lxweb.cn/f/LPGVFD/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B_1.3.0.apk",
+				"icon": "https://cloud.lxweb.cn/f/xg1acM/%E7%94%B2%E5%A3%B3%E8%99%AB.png"
+			},
+			{
+                                "name": "夕颜社区",
+				"url": "http://000.today/down.php/cc6a0cef445d6a7c035abf60edeeca74.apk",
+				"icon": "https://z1.ax1x.com/2023/11/28/piBbNKP.jpg",
+				"version": "2.2.0"
+			},
+			{
+				"name": "当贝桌面",
+				"url": "https://cloud.lxweb.cn/f/qLYyte/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2-3.3.6.apk",
+				"icon": "https://cloud.lxweb.cn/f/b8Rjsp/%E5%BD%93%E8%B4%9D.png"
+			},
+			{
+				"name": "IDM+",
+				"url": "https://cloud.lxweb.cn/f/MoPbFG/1DM+_16.apk",
+				"icon": "https://cloud.lxweb.cn/f/6gNNfw/idm.png"
+			},
+			{
+				"name": "欢视助手",
+				"url": "http://admin.appto.cc:789/APP/huan.apk",
+				"icon": "http://zhushou.huan.tv/static/img/pic8.62026ab.png"
+			},
+			{
+			    
+				"name": "小白管理器",
+				"url": "https://cloud.lxweb.cn/f/B61EF9/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8_2.8.0.apk",
+				"icon": "https://cloud.lxweb.cn/f/WQpKTB/xb.png"
+			},
+			{
+				"name": "超卓管理器",
+				"url": "https://cloud.lxweb.cn/f/weJXI2/%E8%B6%85%E5%8D%93%E6%96%87%E7%AE%A1_15.4.4.apk",
+				"icon": "https://cloud.lxweb.cn/f/7aYpfr/cz.png"
+			}
+		]
+	},
+	{
+		"name": "音乐软件",
+		"list": [{
+				"name": "酷狗概念版",
+				"url": "https://cloud.lxweb.cn/f/xgBjTM/%E9%85%B7%E7%8B%97%E6%A6%82%E5%BF%B5%E7%89%88_3.3.7.apk",
+				"icon": "https://cloud.lxweb.cn/f/NOpqtR/%E9%85%B7%E7%8B%97.png",
+				"version": "3.3.7版"
+			},
+			{
+				"name": "MusicFree",
+				"url": "https://cloud.lxweb.cn/f/qLMmie/MusicFree.zip",
+				"icon": "https://cloud.lxweb.cn/f/lgznIw/MusicFree.png",
+				"version": "0.1.1版"
+			},
+			{
+				"name": "落雪音乐",
+				"url": "https://cloud.lxweb.cn/f/J07EHk/lx-music-mobile-v1.2.0-beta.2-universal.zip",
+				"icon": "https://cloud.lxweb.cn/f/E0p2fX/%E8%90%BD%E9%9B%AA.png",
+				"version": "1.2版"
+			},
+			{
+				"name": "歌词适配",
+				"url": "https://cloud.lxweb.cn/f/xgEqHM/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D.apk",
+				"icon": "https://cloud.lxweb.cn/f/ymxAuE/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D.png",
+				"version": "4.1.4版"
+			}
+		]
+	}
+]
