@@ -14,6 +14,7 @@
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/运输车/duoduoyunshuche.json", "name": "运输车" },
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/神仙/duoduoshenxian.json", "name": "神仙" },
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/不良帅/duoduobuliangshuai.json", "name": "不良帅" },
+{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/喵影视/duoduomiaoyingshi.json", "name": "喵影视" },
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/万达/duoduowanda.json", "name": "万达" },
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/小马/duoduoxiaoma.json", "name": "小马" },
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/猎狼/duoduolielang.json", "name": "猎狼" },
