@@ -1,5 +1,5 @@
 { "urls": [
-{ "url": "./饭太硬/fty.json", "name": "饭太硬" },
+{ "url": "./%E9%A5%AD%E5%A4%AA%E7%A1%AC/fty.json", "name": "饭太硬" },
 { "url": "clan://localhost/tvbox/duoduofeimao/duoduofeimao.json", "name": "肥猫" },
 { "url": "clan://localhost/tvbox/duoduodaozhang/duoduodaozhang.json", "name": "道长" },
 { "url": "clan://localhost/tvbox/duoduoxiaomi/duoduoxiaomi.json", "name": "小米" },
