@@ -1,9 +1,9 @@
 { "urls": [
-{ "url": "clan://localhost/tvbox/fty/fty.json", "name": "饭太硬" },
+{ "url": "./饭太硬/fty.json", "name": "饭太硬" },
 { "url": "clan://localhost/tvbox/duoduofeimao/duoduofeimao.json", "name": "肥猫" },
 { "url": "clan://localhost/tvbox/duoduodaozhang/duoduodaozhang.json", "name": "道长" },
 { "url": "clan://localhost/tvbox/duoduoxiaomi/duoduoxiaomi.json", "name": "小米" },
-{ "url": "clan://localhost/tvbox/duoduoRay/duoduoRay.json", "name": "Ray" },
+{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/Ray/duoduoRay.json", "name": "Ray" },
 { "url": "clan://localhost/tvbox/duoduojunlao/duoduojunlao.json", "name": "俊佬" },
 { "url": "clan://localhost/tvbox/duoduolaoliubei/duoduolaoliubei.json", "name": "老刘备" },
 { "url": "clan://localhost/tvbox/duoduohechengchaxiu/duoduohechengchaxiu.json", "name": "荷城茶秀" },
