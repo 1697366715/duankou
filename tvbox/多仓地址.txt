@@ -1,1 +1,2 @@
-clan://localhost/tvbox/本地.txt
+远程地址      https://atomgit.com/ssxxh/duankou/raw/master/tvbox/%E6%9C%AC%E5%9C%B0.txt
+本地地址      clan://localhost/tvbox/本地.txt
