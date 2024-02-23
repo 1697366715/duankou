@@ -1,7 +1,7 @@
 { "urls": [
-{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/%E9%A5%AD%E5%A4%AA%E7%A1%AC/fty.json", "name": "饭太硬" },
-{ "url": "clan://localhost/tvbox/duoduofeimao/duoduofeimao.json", "name": "肥猫" },
-{ "url": "clan://localhost/tvbox/duoduodaozhang/duoduodaozhang.json", "name": "道长" },
+{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/饭太硬/fty.json", "name": "饭太硬" },
+{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/%E8%82%A5%E7%8C%AB/duoduofeimao.json", "name": "肥猫" },
+{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/%E9%81%93%E9%95%BF/duoduodaozhang.json", "name": "道长" },
 { "url": "clan://localhost/tvbox/duoduoxiaomi/duoduoxiaomi.json", "name": "小米" },
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/Ray/duoduoRay.json", "name": "Ray" },
 { "url": "clan://localhost/tvbox/duoduojunlao/duoduojunlao.json", "name": "俊佬" },
