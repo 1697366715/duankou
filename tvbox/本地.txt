@@ -26,5 +26,5 @@
 { "url": "https://gitee.com/xia-xuhui/duankou/raw/master/tvbox/荷城茶秀/duoduohechengchaxiu.json", "name": "荷城茶秀" },
 { "url": "https://gitee.com/xia-xuhui/duankou/raw/master/tvbox/小胡/duoduoxiaohu.json", "name": "小胡" },
 { "url": "https://gitee.com/xia-xuhui/duankou/raw/master/tvbox/日后/duoduorihou.json", "name": "日后" },
-{ "url": "https://gitee.com/xia-xuhui/duankou/raw/master/tvbox/花生疾风/xmbjm.json", "name": "花生疾风" }
+{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/花生疾风/xmbjm.json", "name": "花生疾风" }
 ]}
