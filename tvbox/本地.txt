@@ -21,5 +21,9 @@
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/太平洋/duoduotaipingyang.json", "name": "太平洋" },
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/春盈/duoduochunying.json", "name": "春盈" },
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/巧技/duoduoqiaoji.json", "name": "巧技" },
-{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/无意/duoduowuyi.json", "name": "无意" }
+{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/无意/duoduowuyi.json", "name": "无意" },
+{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/FongMI/0827.json", "name": "FongMI" },
+{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/PG/duoduoPG.json", "name": "PG" },
+{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/南风/duoduonanfeng.json", "name": "南风" },
+{ "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/小胡/duoduoxiaohu.json", "name": "小胡" }
 ]}
