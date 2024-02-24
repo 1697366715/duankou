@@ -23,5 +23,6 @@
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/FongMI/0827.json", "name": "FongMI" },
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/PG/duoduoPG.json", "name": "PG" },
 { "url": "https://atomgit.com/ssxxh/duankou/raw/master/tvbox/南风/duoduonanfeng.json", "name": "南风" },
-{ "url": "https://gitee.com/xia-xuhui/duankou/raw/master/tvbox/荷城茶秀/duoduohechengchaxiu.json", "name": "荷城茶秀" }
+{ "url": "https://gitee.com/xia-xuhui/duankou/raw/master/tvbox/荷城茶秀/duoduohechengchaxiu.json", "name": "荷城茶秀" },
+{ "url": "https://gitee.com/xia-xuhui/duankou/raw/master/tvbox/小胡/duoduoxiaohu.json", "name": "小胡" }
 ]}
