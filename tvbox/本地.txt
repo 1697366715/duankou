@@ -13,7 +13,6 @@
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/PG/api.json", "name": "PG" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/OK/api.json", "name": "OK" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/Ray/duoduoRay.json", "name": "Ray" },
-{ "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/Ray/duoduoRay.json", "name": "Ray" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/俊佬/duoduojunlao.json", "name": "俊佬" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/老刘备/duoduolaoliubei.json", "name": "老刘备" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/潇洒/duoduoxiaosa.json", "name": "潇洒" },
