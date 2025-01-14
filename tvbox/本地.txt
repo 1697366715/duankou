@@ -10,7 +10,7 @@
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/少儿频道/api.json", "name": "少儿频道" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/动漫频道/api.json", "name": "动漫频道" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/白嫖/api.json", "name": "白嫖" },
-{ "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/PG/api.json", "name": "PG" },
+{ "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/PG/jsm.json", "name": "PG" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/OK/api.json", "name": "OK" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/Ray/duoduoRay.json", "name": "Ray" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/俊佬/duoduojunlao.json", "name": "俊佬" },
