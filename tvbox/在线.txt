@@ -52,8 +52,8 @@
 { "url": "http://liucn.cc/box/m.json", "name": "老刘CC" },
 { "url": "https://tv.203511.xyz/0821.json", "name": "TSQ" },
 { "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8", "name": "不良帅" },
-{ "url": "https://raw.kkgithub.com/liu673cn/fm/main/m.json", "name": "fm-JS" }
+{ "url": "https://raw.kkgithub.com/liu673cn/fm/main/m.json", "name": "fm-JS" },
 { "url": "http://drpy.site/js1", "name": "小雅" },
 { "url": "https://神器每日推送.tk/pz.json", "name": "神器" },
-{ "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8", "name": "云星" },
+{ "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8", "name": "云星" }
 ]}
