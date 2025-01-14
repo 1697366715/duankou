@@ -16,6 +16,8 @@
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/小米/api.json", "name": "小米" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/FongMI/FongMi.json", "name": "FongMI" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/PG/jsm.json", "name": "PG" },
+{ "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/宝盒/bh.json", "name": "宝盒" },
+{ "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/宝盒/omg.json", "name": "宝盒OMG" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/动漫频道/api.json", "name": "动漫频道" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/白嫖/api.json", "name": "白嫖" },
 { "url": "https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/OK/api.json", "name": "OK" },
