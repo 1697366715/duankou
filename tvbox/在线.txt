@@ -20,7 +20,7 @@
 { "url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/19.php?ou=https://fmbox.cc","name": "小赵┃星辰"}, 
 { "url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/20.php?ou=https://py.nxog.eu.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "小赵┃南风"}, 
 { "url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/21.php?ou=https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/333.php?ou=公众号欧歌app&mz=index&jar=index&b=杰歌","name": "小赵┃杰歌"}, 
-{ "url": "http://fmys.top/fmys.json": "驸马" },
+{ "url": "http://fmys.top/fmys.json","name": "驸马"},
 { "url": "http://4k4k.shop", "name": "菠萝库" },
 { "url": "http://38.165.20.168/柒豪4K.json", "name": "柒豪4K" },
 { "url": "http://tv.999888987.xyz", "name": "🚀王二小" },
