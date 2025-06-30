@@ -1,20 +1,8 @@
 {
 "storeHouse":
 [
+{"sourceName":"小赵备仓库1","sourceUrl":"https://2.nxog.eu.org/nxog/ou1.php?b=小赵"}
 
-{"sourceName":"主力仓库","sourceUrl":"https://raw.liucn.cc/box/dc.txt"},
-{"sourceName":"自用仓库2","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
-{"sourceName":"拾光","sourceUrl":"http://xmbjm.fh4u.org/dc.txt"},
-{"sourceName":"天微","sourceUrl":"https://qixing.myhkw.com/自用测试勿传DC.txt"},
-{"sourceName":"本地仓库","sourceUrl":"clan://localhost/tvbox/本地.txt"},
-{"sourceName":"本地99","sourceUrl":"clan://localhost/tvbox/lib/99.json"},
-{"sourceName":"GitHub在线配置","sourceUrl":"https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/在线.txt"},
-{"sourceName":"GitHub配置","sourceUrl":"https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/本地.txt"},
-{"sourceName":"GitHub99","sourceUrl":"https://gcore.jsdelivr.net/gh/1697366715/duankou/tvbox/lib/99.json"},
-{"sourceName":"GitLab极狐配置","sourceUrl":"https://jihulab.com/labxuhui/duankou/-/raw/master/tvbox/本地.txt"},
-{"sourceName":"GitLab极狐99","sourceUrl":"https://jihulab.com/labxuhui/duankou/-/raw/master/tvbox/lib/99.json"},
-{"sourceName":"Gitee配置","sourceUrl":"https://gitee.com/xia-xuhui/duankou/raw/master/tvbox/本地.txt"},
-{"sourceName":"Gitee99","sourceUrl":"https://gitee.com/xia-xuhui/duankou/raw/master/云星/lib/99.json"}
 
 
 
