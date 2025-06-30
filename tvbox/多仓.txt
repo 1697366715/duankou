@@ -3,9 +3,9 @@
 [
 {"sourceName":"小赵备仓库1","sourceUrl":"https://2.nxog.eu.org/nxog/ou1.php?b=小赵"},
 {"sourceName":"小赵备仓库2","sourceUrl":"https://3.nxog.eu.org/nxog/ou1.php?b=小赵"},
-{"sourceName":"多多优选仓库","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
-{"sourceName":"多多公众仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多应用汇.txt"},
-{"sourceName":"多多聚合仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多软件库.txt"},
+{"sourceName":"❤️多多优选仓库","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
+{"sourceName":"💛多多公众仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多应用汇.txt"},
+{"sourceName":"❤️多多聚合仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多软件库.txt"},
 {"sourceName":"主力仓库","sourceUrl":"https://raw.liucn.cc/box/dc.txt"},
 {"sourceName":"自用仓库2","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
 {"sourceName":"拾光","sourceUrl":"http://xmbjm.fh4u.org/dc.txt"},
