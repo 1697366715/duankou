@@ -1,9 +1,5 @@
 { "urls": [
-{ "url": "http://www.饭太硬.com/tv","name: "饭太硬1"},
-{ "url": "http://www.饭太硬.net/tv","name": "饭太硬2"},
-{ "url": "http://www.饭太硬.xyz/tv","name": "饭太硬3"},
-{ "url": "http://fty.xxooo.cf/tv","name": "饭太硬4"},
-{ "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp","name": "饭太硬5"},
+
 { "url": "http://fmys.top/fmys.json","name": "驸马"},
 { "url": "http://4k4k.shop", "name": "菠萝库" },
 { "url": "http://38.165.20.168/柒豪4K.json", "name": "柒豪4K" },
@@ -16,7 +12,7 @@
 { "url": "http://ceshi.肥猫.com/PandaQ", "name": "🐹肥猫" },
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "🐹南风" },
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "🐹南风" },
-{  "url": "http://tv.laohu.cool/tvbox.json", "name": "🚀老虎"},
+{ "url": "http://tv.laohu.cool/tvbox.json", "name": "🚀老虎"},
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json", "name": "🚀老刘备" },
 { "url": "https://毒盒.com/tv","name": "🐹毒盒线路"},
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json", "name": "🚀潇洒" },
@@ -50,15 +46,7 @@
 { "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json", "name": "短剧频道" },
 { "url": "https://qixing.myhkw.com/qxzj/七星智教", "name": "少儿" },
 { "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" }
-//{ "url": "https://xn--yeto36i.v.xn--dkw.xn--6qq986b3xl/m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&mz=index&jar=index&123&b=%E5%B0%8F%E8%B5%B5?&KN3", "name": "小赵" },
-//{ "url": "https://fmbox.cc", "name": "🐹星辰" },
-//{ "url": "http://www.饭太硬.net/tv", "name": "🐹饭太硬" },
-//{ "url": "http://星河.xyz/星河.json", "name": "🐹星河" },
-//{ "url": "http://我不是.摸鱼儿.com", "name": "🐹摸鱼" },
-//{ "url": "http://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" },
-//{ "url": "https://hb.xyyh.online/tvbox/", "name": "小虎斑" },
-//{ "url": "https://4708.kstore.space/tvbox/api.json", "name": "拾光" },
-//{ "url": "https://4708.kstore.space/DJ/DJ.json", "name": "拾光短剧" },
+
 ]}
 
 
