@@ -1,5 +1,9 @@
 { "urls": [
-
+{ "url": "http://www.饭太硬.com/tv","name": "饭太硬1"},
+{ "url": "http://www.饭太硬.net/tv","name": "饭太硬2"},
+{ "url": "http://www.饭太硬.xyz/tv","name": "饭太硬3"},
+{ "url": "http://fty.xxooo.cf/tv","name": "饭太硬4"},
+{ "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp","name": "饭太硬5"},
 { "url": "http://fmys.top/fmys.json","name": "驸马"},
 { "url": "http://4k4k.shop", "name": "菠萝库" },
 { "url": "http://38.165.20.168/柒豪4K.json", "name": "柒豪4K" },
